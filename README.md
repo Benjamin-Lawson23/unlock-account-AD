@@ -14,7 +14,7 @@ This is brief video demonstration on how to unlock a locked account and reset it
 
   <h2>Video Demonstration</h2>
 
-- ### [YouTube: Basic Subnetting Demo](https://youtu.be/CJE61_ezIQY)
+- ### [YouTube: Active Directory - Unlock Account and Reset Password](https://youtu.be/CJE61_ezIQY)
 
 <h2>Summary of actions</h2>
 
