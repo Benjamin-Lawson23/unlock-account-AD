@@ -24,7 +24,7 @@ This is brief video demonstration on how to unlock a locked account and reset it
   2. Find the correct Organizational Unit
  
   <p>
-<img src="https://imgur.com/V943Tij.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EeWQTis.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
   
@@ -34,7 +34,7 @@ This is brief video demonstration on how to unlock a locked account and reset it
 
   
   <p>
-<img src="https://imgur.com/V943Tij.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/rRF1Q3n.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
   
@@ -42,7 +42,7 @@ This is brief video demonstration on how to unlock a locked account and reset it
   7. Click on Reset Password
  
   <p>
-<img src="https://imgur.com/V943Tij.png" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yRH45CG.png" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
   
