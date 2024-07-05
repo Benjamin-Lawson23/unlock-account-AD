@@ -4,7 +4,7 @@
 
 <h1>Unlocking an Account and Resetting a Password in Active Directory</h1>
 
-This is brief video demonstration on how to unlock a locked account and reset its password in Active Directory. Click link below to watch.<br />
+This is a brief video demonstration on how to unlock a locked account and reset its password in Active Directory. Click link below to watch.<br />
 
 <h2>Environments and Technologies Used</h2>
 
